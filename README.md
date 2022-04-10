@@ -1,5 +1,5 @@
 # PingPongGame
-Small 2D game from Udemy course. <br>
+Small 2D game. <br>
 Play Ping Pong <br>
 Play with your friend! <br>
 
